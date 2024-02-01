@@ -1,0 +1,205 @@
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Client: aleksa2 deposited: +500
+Client: aleksa2 withdrew: -200
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Client: zika deposited: +100
+Client: zika withdrew: -100000
+Client: zika sent 100 to: pera
+Client: zika deposited: +1000000000
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Client: pera succesfully reset the pin code.
+Client: pera succesfully reset the pin code.
+Client: aleksa2 deposited: +100000
+Client: aleksa2 withdrew: -200
+Client: aleksa2 deposited: +20000
+Client: aleksa2 withdrew: -210000
+Client: aleksa2 withdrew: -200
+Client: aleksa2 deposited: +50000
+Client: aleksa2 deposited: +50000
+Client: aleksa2 withdrew: -500
+Client: aleksa2 deposited: +200
+Client: aleksa2 deposited: +5000
+Client: aleksa2 withdrew: -200
+Client: andje succesfully reset the pin code.
+Client: andje succesfully reset the pin code.
+Client: andje succesfully reset the pin code.
+Client: andje succesfully reset the pin code.
+Client: andje succesfully reset the pin code.
+Client: andje succesfully reset the pin code.
+Client: andje succesfully reset the pin code.
+Client: andje succesfully reset the pin code.
+Client: andje succesfully reset the pin code.
+Client: andje succesfully reset the pin code.
+Client: andje succesfully reset the pin code.
+Client: andje succesfully reset the pin code.
+Client: andje deposited: +49
+Client: andje deposited: +100
+Client: andje deposited: +100
+Client: andje withdrew: -50
+Client: andje withdrew: -100
+Client: andje succesfully reset the pin code.
+Client: andje deposited: +1000
+Client: andje withdrew: -50
+Client: andje succesfully reset the pin code.
+Client: andje deposited: +100
+Client: andje withdrew: -32
+Client: andje deposited: +100
+Client: andje withdrew: -40
+Client: andje deposited: +12
+Client: andje withdrew: -100
+Client: andje deposited: +100
+Client: andje withdrew: -90
+<<<<<<< HEAD
+Client: andje deposited: +100
+Client: andje succesfully reset the pin code.
+Client: andje withdrew: -20
+=======
+Client: aleksa2 deposited: +400
+Client: aleksa2 deposited: +410
+Client: aleksa2 deposited: +400
+Client: aleksa2 deposited: +400
+Client: aleksa2 deposited: +400
+Client: aleksa2 succesfully reset the pin code.
+Client: aleksa2 deposited: +410
+Client: aleksa2 deposited: +400
+>>>>>>> 47291fed5402850d93ecdb0d7e8595a424cbc267
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Client: andje deposited: +100
+Client: andje deposited: +100
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Client: andje succesfully reset the pin code.
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Client: andje withdrew: -100
+Client: andje withdrew: -1000000
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Client: pera succesfully reset the pin code.
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Client: andje deposited: +100
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Client: andje deposited: +1000
+Client: andje withdrew: -100
+Client: andje succesfully reset the pin code.
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Client: andje deposited: +11
+Client: andje withdrew: -33
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Client: andje deposited: +100
+Client: andje withdrew: -32
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Client: andje deposited: +100
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Client: andje deposited: +100
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Client: andje deposited: +100
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Client: andje deposited: +100
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Client: andje deposited: +100
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
+Server created certificate: System.Security.Cryptography.X509Certificates.X500DistinguishedName.pfx
